@@ -1,0 +1,10 @@
+[
+  {"question": "What is SignSync AI?", "expect_source": "sample/sample_project_info.md"},
+  {"question": "What is Indian Sign Language?", "expect_source": "sample/sample_project_info.md"},
+  {"question": "What is the emergency number in India?", "expect_source": "sample/sample_project_info.md"},
+  {"question": "What general advice is there for learning sign language?", "expect_source": "sample/sample_project_info.md"},
+  {"question": "Is Indian Sign Language the same as American Sign Language?", "expect_source": "sample/sample_project_info.md"},
+  {"question": "Who won the 2010 football world cup?", "expect_source": null},
+  {"question": "What is the capital of Japan?", "expect_source": null},
+  {"question": "How do I cook biryani?", "expect_source": null}
+]

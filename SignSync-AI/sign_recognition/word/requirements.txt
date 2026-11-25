@@ -1,0 +1,6 @@
+# Member 2 word models. The saved models use Keras 3 (keras 3.15.1). Keras 3 needs a TensorFlow release that
+# ships Keras 3, so tensorflow 2.15 (which ships Keras 2) cannot load them. Use TensorFlow 2.20 or newer.
+# After installing, check with:  python -c "import keras; print(keras.__version__)"   -> should print 3.x
+numpy>=1.26
+scikit-learn>=1.4
+tensorflow>=2.20

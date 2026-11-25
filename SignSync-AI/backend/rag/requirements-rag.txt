@@ -1,0 +1,8 @@
+# RAG module (Member 4). Install in the same venv as backend/requirements.txt.
+# Required (pure Python + numpy, works offline):
+numpy>=1.24,<2.3
+pypdf>=4.0,<6
+# Optional, for real semantic search (large: pulls in PyTorch). Without these the module falls
+# back to the hashing embedder and numpy search, which still run.
+sentence-transformers>=3.0,<4
+faiss-cpu>=1.8,<2

@@ -1,0 +1,93 @@
+{
+  "questions": 8,
+  "answerable": 5,
+  "source_hit_rate": 1.0,
+  "refusal_accuracy": 1.0,
+  "min_score": 0.1,
+  "top_k": 4,
+  "embedder": "hashing",
+  "rows": [
+    {
+      "question": "What is SignSync AI?",
+      "expected_source": "sample/sample_project_info.md",
+      "retrieved_sources": [
+        "sample/sample_project_info.md"
+      ],
+      "top_score": 0.28,
+      "refused": false,
+      "source_hit": true,
+      "refusal_correct": true
+    },
+    {
+      "question": "What is Indian Sign Language?",
+      "expected_source": "sample/sample_project_info.md",
+      "retrieved_sources": [
+        "sample/sample_project_info.md"
+      ],
+      "top_score": 0.362,
+      "refused": false,
+      "source_hit": true,
+      "refusal_correct": true
+    },
+    {
+      "question": "What is the emergency number in India?",
+      "expected_source": "sample/sample_project_info.md",
+      "retrieved_sources": [
+        "sample/sample_project_info.md"
+      ],
+      "top_score": 0.217,
+      "refused": false,
+      "source_hit": true,
+      "refusal_correct": true
+    },
+    {
+      "question": "What general advice is there for learning sign language?",
+      "expected_source": "sample/sample_project_info.md",
+      "retrieved_sources": [
+        "sample/sample_project_info.md"
+      ],
+      "top_score": 0.223,
+      "refused": false,
+      "source_hit": true,
+      "refusal_correct": true
+    },
+    {
+      "question": "Is Indian Sign Language the same as American Sign Language?",
+      "expected_source": "sample/sample_project_info.md",
+      "retrieved_sources": [
+        "sample/sample_project_info.md"
+      ],
+      "top_score": 0.282,
+      "refused": false,
+      "source_hit": true,
+      "refusal_correct": true
+    },
+    {
+      "question": "Who won the 2010 football world cup?",
+      "expected_source": null,
+      "retrieved_sources": [],
+      "top_score": null,
+      "refused": true,
+      "source_hit": null,
+      "refusal_correct": true
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "expected_source": null,
+      "retrieved_sources": [],
+      "top_score": null,
+      "refused": true,
+      "source_hit": null,
+      "refusal_correct": true
+    },
+    {
+      "question": "How do I cook biryani?",
+      "expected_source": null,
+      "retrieved_sources": [],
+      "top_score": null,
+      "refused": true,
+      "source_hit": null,
+      "refusal_correct": true
+    }
+  ]
+}

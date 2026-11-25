@@ -1,0 +1,3 @@
+Sign video credits (see the licence of each source before sharing).
+hello.mp4 | INCLUDE | CC-BY-4.0 | https://creativecommons.org/licenses/by/4.0/ (INCLUDE dataset, CC-BY-4.0: credit the authors) | source file MVI_0029.MOV
+thanks.mp4 | INCLUDE | CC-BY-4.0 | https://creativecommons.org/licenses/by/4.0/ (INCLUDE dataset, CC-BY-4.0: credit the authors) | source file MVI_0006.MOV

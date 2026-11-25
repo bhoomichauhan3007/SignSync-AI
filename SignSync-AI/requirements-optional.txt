@@ -1,0 +1,15 @@
+# Optional extras. Install only what you need; the core project runs without these.
+# Member 1: webcam and landmark extraction (Python side; the browser uses MediaPipe JS)
+opencv-contrib-python==4.11.0.86
+mediapipe==0.10.21
+# Member 2: word (dynamic) models. Keras models are NOT connected to the backend yet.
+tensorflow>=2.20  # Keras 3: the Member 2 word models need this
+# Member 3: real speech-to-text and text-to-speech (large; needs ffmpeg installed on the system)
+openai-whisper
+gTTS
+# Member 3: sentence formation with Gemini (needs GEMINI_API_KEY in backend/.env)
+google-genai
+python-dotenv
+# Member 4: semantic retrieval (downloads all-MiniLM-L6-v2; pulls in PyTorch)
+sentence-transformers>=3.0,<4
+faiss-cpu>=1.8,<2

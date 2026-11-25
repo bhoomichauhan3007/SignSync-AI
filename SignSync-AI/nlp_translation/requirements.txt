@@ -1,0 +1,6 @@
+numpy
+gTTS
+openai-whisper
+google-genai
+python-dotenv
+# anthropic is not used any more (Member 3 moved sentence formation to Gemini)

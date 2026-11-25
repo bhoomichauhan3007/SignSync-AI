@@ -1,0 +1,3 @@
+label,category,level,is_dynamic,description,reference_media_url,is_emergency,emergency_phrase
+GOOD MORNING,word,3,true,Greeting used in the morning,,false,
+AMBULANCE,phrase,4,true,Emergency vehicle,,true,Please call an ambulance.

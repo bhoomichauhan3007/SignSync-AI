@@ -1,0 +1,74 @@
+[
+ {
+  "id": "81b2c1b05869337f",
+  "text": "# SAMPLE TEST DOCUMENT - NOT VERIFIED ISL REFERENCE MATERIAL\n\nThis file was written by the project team only to test the RAG pipeline (ingestion, chunking, indexing and retrieval). Do not use it as a source for the meaning of any sign.\n\n## About SignSync AI\n\nSignSync AI is a college major project that connects sign language with speech and text. It combines computer vision for hand tracking, a sign recognition model, natural language processing, a backend API, a web frontend and an AI tutor. The AI tutor answers questions from documents in the knowledge base and says clearly when the knowledge base does not contain an answer.\n\n## About Indian Sign Language",
+  "source": "sample/sample_project_info.md",
+  "title": "SAMPLE TEST DOCUMENT - NOT VERIFIED ISL REFERENCE MATERIAL",
+  "page": null,
+  "status": "sample",
+  "chunk_index": 0
+ },
+ {
+  "id": "5eb25e5fecd3b932",
+  "text": "questions from documents in the knowledge base and says clearly when the knowledge base does not contain an answer.\n\n## About Indian Sign Language\n\nIndian Sign Language (ISL) is the sign language used by many deaf people in India. It is a separate language from American Sign Language and British Sign Language. In general sign-language linguistics, a sign is described by its handshape, the orientation of the palm, its location relative to the body, its movement, and non-manual features such as facial expression. Verified ISL dictionary entries must come from a qualified source and are not contained in this sample file.\n\n## General learning advice (general guidance, not verified ISL content)",
+  "source": "sample/sample_project_info.md",
+  "title": "SAMPLE TEST DOCUMENT - NOT VERIFIED ISL REFERENCE MATERIAL",
+  "page": null,
+  "status": "sample",
+  "chunk_index": 1
+ },
+ {
+  "id": "6332f1b91969a4a8",
+  "text": "must come from a qualified source and are not contained in this sample file.\n\n## General learning advice (general guidance, not verified ISL content)\n\nLearners often begin with the manual alphabet and numbers, then move to greetings and everyday words. Practising in front of a mirror and learning with a certified ISL teacher are common suggestions. Short, regular practice sessions are usually more effective than long, infrequent ones.\n\n## Emergency information\n\nIn India, the single national emergency number is 112. In a real emergency, contact emergency services directly and do not rely on this application.",
+  "source": "sample/sample_project_info.md",
+  "title": "SAMPLE TEST DOCUMENT - NOT VERIFIED ISL REFERENCE MATERIAL",
+  "page": null,
+  "status": "sample",
+  "chunk_index": 2
+ },
+ {
+  "id": "764b5331d9890b6b",
+  "text": "# ISL basics: general reference\n\nThis is a general introduction to how sign languages are built. It is not a dictionary and it does not give the meaning of any ISL sign. A qualified Indian Sign Language teacher must check every statement before it is used for teaching.\n\n## What an ISL sign is made of\n\nSign languages, including Indian Sign Language (ISL), build each sign from a few parts that are combined:",
+  "source": "unverified/isl_basics_reference.md",
+  "title": "ISL basics: general reference",
+  "page": null,
+  "status": "unverified",
+  "chunk_index": 0
+ },
+ {
+  "id": "bfd2a737f43b5a5d",
+  "text": "teaching.\n\n## What an ISL sign is made of\n\nSign languages, including Indian Sign Language (ISL), build each sign from a few parts that are combined:\n\n1. **Handshape:** the shape the fingers and thumb make. Examples of handshape descriptions are a flat hand, a closed fist, a single pointing index finger, or a hand with fingers spread. 2. **Orientation:** the direction the palm and the fingers point (up, down, towards the body, away from it). 3. **Location:** the place where the sign is made, for example in front of the chest, near the face, or on the side of the body. 4. **Movement:** how the hand moves: straight, circular, tapping, or wiggling. 5. **Non-manual signals:** facial expression, eyebrows, mouth shape, head and body movement. These can change the meaning of a sign or show a question, a negative, or emphasis.",
+  "source": "unverified/isl_basics_reference.md",
+  "title": "ISL basics: general reference",
+  "page": null,
+  "status": "unverified",
+  "chunk_index": 1
+ },
+ {
+  "id": "1356784e738a54a8",
+  "text": "facial expression, eyebrows, mouth shape, head and body movement. These can change the meaning of a sign or show a question, a negative, or emphasis.\n\nHand shapes are one part of a sign. Two signs can use the same handshape and still mean different things because their location, orientation, movement or facial expression is different.\n\n## Fingerspelling and the alphabet\n\nFingerspelling spells a word one letter at a time with handshapes. It is used for names, places and words that do not have a sign. The SignSync AI alphabet covers the letters A to Z. Check each letter's handshape with a teacher.\n\n## Numbers\n\nNumbers in ISL are shown with handshapes and sometimes movement. Learn them with a teacher or in a recorded lesson.\n\n## How to start learning Indian Sign Language (ISL): learning advice (general)",
+  "source": "unverified/isl_basics_reference.md",
+  "title": "ISL basics: general reference",
+  "page": null,
+  "status": "unverified",
+  "chunk_index": 2
+ },
+ {
+  "id": "0d98f32f65b0fda3",
+  "text": "movement. Learn them with a teacher or in a recorded lesson.\n\n## How to start learning Indian Sign Language (ISL): learning advice (general)\n\n- Practise in front of a mirror, or record yourself and compare with a teacher's video. - Practise short sessions often rather than one long session. - Learn the handshapes first, then add location, orientation and movement, then facial expression. - Learn with a certified ISL teacher. Ask the teacher to check your handshapes and facial expression. - Deaf community members can give you the most natural feedback.\n\n## Words in the SignSync AI vocabulary",
+  "source": "unverified/isl_basics_reference.md",
+  "title": "ISL basics: general reference",
+  "page": null,
+  "status": "unverified",
+  "chunk_index": 3
+ },
+ {
+  "id": "77eec7c729424377",
+  "text": "check your handshapes and facial expression. - Deaf community members can give you the most natural feedback.\n\n## Words in the SignSync AI vocabulary\n\nThe app recognises or shows these 40 words: aboard, afternoon, bad, beside, bye bye, camera, car, correct, deaf, evening, food, good, hello, house, I love you, lunch, man, marry, middle, morning, namaste, night, no, pen, place, please, practise, prisoner, sorry, strong, sweet, teacher, thanks, time, understand, water, week, woman, yes, you. This list only says which words the app knows. It does not say how each word is signed. Every sign must be checked by a teacher and recorded before it is taught in the app.\n\n## Emergencies\n\nIn India, the national emergency number is 112. In a real emergency, contact emergency services directly.",
+  "source": "unverified/isl_basics_reference.md",
+  "title": "ISL basics: general reference",
+  "page": null,
+  "status": "unverified",
+  "chunk_index": 4
+ }
+]
