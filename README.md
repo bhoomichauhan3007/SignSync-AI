@@ -99,11 +99,10 @@ SignSync AI aims to address this challenge through an intelligent system that ca
 
 *These technologies represent the proposed project stack; individual components may vary in the implemented version.*
 
-## 👥 Team Modules
+## 📊 Dataset
 
-| Member | Responsibility |
-|---|---|
-| Member 1 | Computer Vision – Camera input, hand detection, landmarks and preprocessing |
-| Member 2 | Machine Learning – Dataset preparation, model training and sign classification |
-| Member 3 | NLP & Speech – Text processing, sentence formation, STT and TTS |
-| Member 4 | AI Assistant
+The sign-language dataset is maintained separately and is not included in this GitHub repository due to its size.
+
+The dataset contains sign-language samples used for model development and testing.
+
+It can be added or shared separately when required.
